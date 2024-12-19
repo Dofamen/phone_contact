@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1561303703 source:c:\users\mehdi\desktop\mini_projet_phone_contacts_v1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1561392999 source:c:\users\mehdi\desktop\sdd_projets_2_ap\mini_projet_phone_contacts_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1561420649 source:c:\users\mehdi\desktop\sdd_projets_2_ap\mini_projet_phone_contacts_v3_fin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+

@@ -1,0 +1,8 @@
+first_name family_name   mobile   email Relation
+abdelah	elouakifi	897342	wehewioh	family
+hamza	elouakifi	ijd	ojs	0
+mehdi	elouakifi	0614501891	isa	family
+omar	elouakifi	987897	lhfh	family
+sara	elouakifi	3298732	jhfi	family
+hassan	gassab	879	jhasuhas	family
+moncef	louizi	087873	emsiiii	emsi
